@@ -1,4 +1,14 @@
 #chaomung{
     color: red;
     font-size: 100px;
+    background: linear-gradient(to bottom right, blue, pink);
+}
+
+.btn{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px; /*bo tròn viền*/
+    background: linear-gradient(to bottom right, blue, pink);
+    cursor: pointer;  /* cho con trỏ vô */
+    border-color: blue;
 }
